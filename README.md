@@ -1,3 +1,5 @@
+![logo](https://github.com/Shomyakumar/Shomyakumar/blob/main/github-header-image.png)
+
 <h2 align="center">Hi 👋! My name is Shomya Kumar and  I am learning MERN stack development.</h2>
 
 ###
