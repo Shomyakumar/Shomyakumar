@@ -1,4 +1,4 @@
-![logo](https://github.com/Shomyakumar/Shomyakumar/blob/main/github-header-image.png)
+![logo](https://github.com/Shomyakumar/Shomyakumar/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 
 <h2 align="center">Hi 👋! My name is Shomya Kumar and  I am learning MERN stack development.</h2>
 
